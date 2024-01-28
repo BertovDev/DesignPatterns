@@ -1,4 +1,4 @@
-# Design Patterns Practice in Typescript
+# Design Patterns in Typescript
 
 ## State machine
 
