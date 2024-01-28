@@ -1,0 +1,29 @@
+ html,
+ body {
+  overflow: hidden;
+  margin: 0px;
+}
+
+html {
+  background-color: black;
+}
+
+.webgl {
+  position: fixed;
+  top: 0;
+  bottom:0;
+  outline: none;
+}
+
+.text {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  position: relative;
+  font-family: 'Cabin', sans-serif;
+  color: #ffeded;
+  text-transform: uppercase;
+  font-size: 10vmin;
+  padding-left: 10%;
+  padding-right: 10%;
+}
